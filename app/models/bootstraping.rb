@@ -1,0 +1,2 @@
+class Bootstraping < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+module JavaqueriesHelper
+end
