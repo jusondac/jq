@@ -17,3 +17,8 @@
 //= require bootstrap
 //= require jquery3
 //= require popper
+$(function() {
+  $(".navigation__icon").click(function() {
+    $(".navigation").toggleClass('navigation-open');
+  });
+});
