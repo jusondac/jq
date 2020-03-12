@@ -18,9 +18,6 @@
 //= require jquery3
 //= require popper
 $(document).ready(function(){
-  $(".navigation__icon").click(function() {
-    $(".navigation").toggleClass('navigation-open');
-  });
   $(document).on('turbolinks:load',function(){
   })
 })
