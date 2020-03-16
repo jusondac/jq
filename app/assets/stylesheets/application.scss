@@ -48,3 +48,24 @@ height: 85vh;
 .btn {
   border-radius: 30px;
 }
+
+.form {
+  color: white;
+  padding: 10px;
+  margin-left: 900px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 400px;
+  background-color: transparent;
+  border-radius: 5px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 5px solid yellow;
+  text-decoration: none;
+}
+
+.form:hover {
+  background-color: transparent;
+  color: white;
+}
